@@ -6,7 +6,7 @@
   </a>
   <p align="left">
   <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
-    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/micro" /> 
+    <img src="https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript" /> 
   </a>
 </p>
 
