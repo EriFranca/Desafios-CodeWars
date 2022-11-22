@@ -13,7 +13,7 @@
 </p>
 
 <!-- JavaScript -->
-<details><strong> 
+<details>
     <summary><strong><Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></strong></summary>
     <br />
         <!-- Introdução a Programação -->
@@ -50,4 +50,4 @@
             </tr>
         </table>
        
-</strong></details>
+</details>
