@@ -6,7 +6,7 @@
     <Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </a>
   <p align="left">
-  <img src="github/repo-size/EriFranca/Desafios-CodeWars" /> 
+  <img src="https://img.shields.io/github/repo-size/EriFranca/Desafios-CodeWars" /> 
   <img src="https://img.shields.io/tokei/lines/github/EriFranca/Desafios-CodeWars" /> 
   <img src="https://img.shields.io/github/languages/count/EriFranca/Desafios-CodeWars" /> 
   <img src="https://img.shields.io/github/languages/top/EriFranca/Desafios-CodeWars" /> 
