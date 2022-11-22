@@ -1,8 +1,8 @@
 <h2 align="center">Desafios CodeWars 📚</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
-    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/large" /> 
+    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/small" /> 
   </a>
 </p>
 
