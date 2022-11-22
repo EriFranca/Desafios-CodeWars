@@ -17,7 +17,7 @@
         <!-- Introdução a Programação -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a Programação</th>
+                <th colspan="4">Kata 7 em Javascript</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -29,19 +29,19 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">1</td>
+                <td align="center">01</td>
                 <td></td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">2</td>
+                <td align="center">02</td>
                 <td></td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">3</td>
+                <td align="center">03</td>
                 <td></td>
                 <td><a href="h">Código</a></td>
                 <td align="center">✅</td>
