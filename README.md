@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues">
-    <img src="https://img.shields.io/github/issues/lucasrmagalhaes/desafios-DIO" /> 
+    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/large" /> 
   </a>
     
   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/network/members">
