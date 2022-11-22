@@ -6,17 +6,14 @@
     <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/large" /> 
   </a>
     
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/network/members">
-    <img src="https://img.shields.io/github/forks/lucasrmagalhaes/desafios-DIO" /> 
+  <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
+    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/small" /> 
   </a>
     
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/stargazers">
-    <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO" /> 
+  <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
+    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/micro" /> 
   </a>
     
-   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO" /> 
-  </a>
 </p>
 
 <!-- C Sharp -->
