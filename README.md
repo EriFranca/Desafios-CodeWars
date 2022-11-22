@@ -1,4 +1,4 @@
-# Desafios-CodeWars
+<h2 align="center">Desafios CodeWars 📚</h2>
 <h2 align="center">Desafios e Soluções 📚</h2>
 
 <p align="center">
