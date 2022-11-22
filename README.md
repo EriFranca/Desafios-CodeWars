@@ -1,19 +1,9 @@
 <h2 align="center">Desafios CodeWars 📚</h2>
-<h2 align="center">Desafios e Soluções 📚</h2>
 
 <p align="center">
   <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
     <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/large" /> 
   </a>
-    
-  <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
-    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/small" /> 
-  </a>
-    
-  <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
-    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/micro" /> 
-  </a>
-    
 </p>
 
 <!-- C Sharp -->
