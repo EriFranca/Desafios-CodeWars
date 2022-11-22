@@ -2,12 +2,10 @@
 
 <p align="left">
   <a href="https://www.codewars.com/users/Eri%20Fran%C3%A7a/completed">
-    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/small" /> 
+    <img src="https://www.codewars.com/users/Eri%20Fran%C3%A7a/badges/micro" /> 
   </a>
   <p align="left">
-  <a href="https://github.com/Ileriayo/markdown-badges#table-of-contents">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
-  </a>
+  <img src="https://img.shields.io/github/repo-size/EriFranca/Desafios-CodeWars" /> 
 </p>
 
 <!-- JavaScript -->
