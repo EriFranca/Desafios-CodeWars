@@ -14,7 +14,6 @@
 <details> 
     <summary><strong>JavaScript</strong></summary>
     <br />
-    <div align="left">
         <!-- Introdução a Programação -->
         <table border=1>
             <tr>
@@ -49,5 +48,4 @@
             </tr>
         </table>
        
-    </div>
 </details>
