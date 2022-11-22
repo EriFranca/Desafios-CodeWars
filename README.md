@@ -6,7 +6,7 @@
   </a>
   <p align="left">
   <a href="https://github.com/EriFranca/Desafios-CodeWars/issues">
-    <img src="https://www.codewars.com/kata/52774a314c2333f0a7000688/badges/javascript" /> 
+    <img src="![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" /> 
   </a>
 </p>
 
