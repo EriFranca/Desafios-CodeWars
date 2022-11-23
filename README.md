@@ -15,7 +15,7 @@
 
 <!-- JavaScript -->
 <details>
-    <summary><Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></summary>
+    <summary><STRONG>JAVASCRIPT</STRONG></summary>
     <br />
         <!-- Introdução a Programação -->
         <table border=1>
