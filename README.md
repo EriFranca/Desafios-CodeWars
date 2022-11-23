@@ -33,15 +33,18 @@
             </tr>
             <tr>
                 <td>Exes and Ohs</td>
+                <td><a href="">Desafio</a></td>
                 <td><a href="">Código</a></td>
             </tr>
             <tr>
                 <td>Highest and Lowest</td>
-                <td><a href="">Código</a></td>               
+                <td><a href="">Desafio</a></td> 
+                <td><a href="">Código</a></td>              
             </tr>
             <tr>
                 <td>Shortest Word</td>
-                <td><a href="">Código</a></td>               
+                <td><a href="">Desafio</a></td> 
+                <td><a href="">Código</a></td>              
             </tr>
         </table>
        
