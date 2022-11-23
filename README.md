@@ -38,13 +38,13 @@
             </tr>
             <tr>
                 <td>Highest and Lowest</td>
-                <td><a href="">Desafio</a></td> 
-                <td><a href="">Código</a></td>              
+                <td><a href="https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript">Desafio</a></td> 
+                <td><a href="https://github.com/EriFranca/Desafios-CodeWars/blob/main/JAVASCRIPT/KATA%2007/Highest%20and%20Lowest/solu%C3%A7%C3%A3o.js">Código</a></td>              
             </tr>
             <tr>
                 <td>Shortest Word</td>
-                <td><a href="">Desafio</a></td> 
-                <td><a href="">Código</a></td>              
+                <td><a href="https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript">Desafio</a></td> 
+                <td><a href="https://github.com/EriFranca/Desafios-CodeWars/blob/main/JAVASCRIPT/KATA%2007/Shortest%20Word/solu%C3%A7%C3%A3o.js">Código</a></td>              
             </tr>
         </table>
        
