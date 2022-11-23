@@ -1,5 +1,5 @@
 <h2 align="center">Desafios CodeWars <!--📚-->
-<Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></h2>
+<p align="left"><Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></h2></p>
 
 <p align="left">
   <a href="https://www.codewars.com/users/Eri%20Fran%C3%A7a/completed">
@@ -53,49 +53,3 @@
        
 </details>
 
-<table id="search-results-table" border="1">
-   <thead>
-     <tr id="search-results-table-headerrow">
-        <th id="th-mes">Mês</th>
-        <th>Categoria</th>
-        <th>País</th>
-        <th>Estado</th>
-        <th>Meio de transporte</th>
-        <th>Volume</th>
-        <th>Peso bruto</th>
-        <th>Valor financeiro</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="innerRow">
-        <td>Dezembro</td>
-        <td>Produtos hortículas, plantas, raízes e tubérculos, comestíveis</td>
-        <td>Turquia</td>
-        <td>RS</td>
-        <td>Marítima</td>
-        <td>0.005</td>
-        <td>5</td>
-        <td>5</td>
-    </tr>
-    <tr class="innerRow">
-        <td>Janeiro</td>
-        <td>Produtos hortículas, plantas, raízes e tubérculos, comestíveis</td>
-        <td>Egito</td>
-        <td>RS</td>
-        <td>Marítima</td>
-        <td>0.003</td>
-        <td>6</td>
-        <td>8</td>
-    </tr>
-    <tr class="innerRow">
-        <td>Fevereiro</td>
-        <td>Produtos hortículas, plantas, raízes e tubérculos, comestíveis</td>
-        <td>Marrocos</td>
-        <td>RS</td>
-        <td>Marítima</td>
-        <td>0.002</td>
-        <td>2</td>
-        <td>4</td>
-    </tr>
-    </tbody>
-</table>
