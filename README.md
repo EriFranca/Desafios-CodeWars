@@ -49,3 +49,16 @@
        
 </details>
 
+<table id="myTable" >
+  <thead>
+      <tr>
+    <th>Disciplina</th>
+    <th>Prioridade</th>
+      </tr>
+  </thead>
+    <tbody>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
