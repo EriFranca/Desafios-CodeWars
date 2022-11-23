@@ -19,7 +19,7 @@
     <summary><STRONG>JAVASCRIPT</STRONG></summary>
     <br />
         <!-- Introdução a Programação -->
-        <table border=5>
+        <table.sortable border=5>
             <tr>
                 <th colspan="4">Kata 7 em Javascript</th>
             </tr>
