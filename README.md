@@ -1,6 +1,7 @@
 <h2 align="center">Desafios CodeWars <!--📚-->
 <p align="left"><Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
                 <Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></h2></p>
+              <p>  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </p>
 
 <p align="left">
   <a href="https://www.codewars.com/users/Eri%20Fran%C3%A7a/completed"> 
