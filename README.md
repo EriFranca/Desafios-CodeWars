@@ -49,11 +49,7 @@
        
 </details>
 
-<script type="text/javascript">
-$(function(){
-	$.ay.tableSort({target: $('table'), debug: false});
-});
-</script>
+
 <table>
 	<thead>
 		<tr>
