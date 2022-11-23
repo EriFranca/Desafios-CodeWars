@@ -18,7 +18,7 @@
     <summary><STRONG>JAVASCRIPT</STRONG></summary>
     <br />
         <!-- Introdução a Programação -->
-        <section border=1>
+        <table border=5>
             <tr>
                 <th colspan="4">Kata 7 em Javascript</th>
             </tr>
@@ -49,7 +49,7 @@
                 <td><a href="h">Código</a></td>
                 <td align="center">✅</td>
             </tr>
-        </section>
+        </table>
        
 </details>
 
