@@ -48,3 +48,45 @@
         </table>
        
 </details>
+
+<script type="text/javascript">
+$(function(){
+	$.ay.tableSort({target: $('table'), debug: false});
+});
+</script>
+<table>
+	<thead>
+		<tr>
+			<th class="name ay-sort sorted-asc">Name</th>
+			<th class="ay-sort">Age</th>
+			<th class="ay-sort">Price</th>
+		</tr>
+	</thead>
+	<tbody class="ay-sort-no">
+		<tr>
+			<th colspan="3">Rated Best Voice Actor</th>
+		</tr>
+		<tr>
+			<td>Timothy</td>
+			<td>30</td>
+			<td data-ay-weight="90">USD 90.00/hr</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td>Ann</td>
+			<td>23</td>
+			<td data-ay-weight="50.0">USD 50.0/hr</td>
+		</tr>
+		<tr>
+			<td>Becker</td>
+			<td>20</td>
+			<td data-ay-weight="100.0">USD 100.00/hr</td>
+		</tr>
+		<tr>
+			<td>Meg</td>
+			<td>31</td>
+			<td data-ay-weight="70.30">USD 70.30/hr</td>
+		</tr>
+	</tbody>
+</table>
