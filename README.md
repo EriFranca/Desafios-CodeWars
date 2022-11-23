@@ -31,20 +31,17 @@
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
-            <tr "sortable"=true>
-                <td>RGB To Hex Conversion</td>
+            <tr>
+                <td>Exes and Ohs</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✅</td>
             </tr>
             <tr>
-                <td></td>
-                <td><a href="">Código</a></td>
-                <td align="center">✅</td>
+                <td>Highest and Lowest</td>
+                <td><a href="">Código</a></td>               
             </tr>
             <tr>
-                <td></td>
-                <td><a href="h">Código</a></td>
-                <td align="center">✅</td>
+                <td>Shortest Word</td>
+                <td><a href="">Código</a></td>               
             </tr>
         </table>
        
