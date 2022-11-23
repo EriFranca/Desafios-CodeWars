@@ -49,16 +49,16 @@
        
 </details>
 
-<table id="myTable" >
+<table id="myTable2">
   <thead>
       <tr>
     <th>Disciplina</th>
-    <th>Prioridade</th>
+    <th>Método de avaliação</th>
+    <th>Data da avaliação</th>
+    <th>Antecedência</th>
+    <th>Duração por dia</th>
       </tr>
   </thead>
     <tbody>
-        <tr>
-        </tr>
     </tbody>
 </table>
-

@@ -1,0 +1,12 @@
+var table = document.getElementById("myTable2");
+                var row = table.insertRow(1);
+                var cell1 = row.insertCell(0);
+                var cell2 = row.insertCell(1);
+                var cell3 = row.insertCell(2);
+                var cell4 = row.insertCell(3);
+                var cell5 = row.insertCell(4);
+                cell1.innerHTML = localStorage.getItem("disciplinas");
+                cell2.innerHTML = localStorage.getItem("metododeavaliaçao");
+                cell3.innerHTML = localStorage.getItem("Data");
+                cell4.innerHTML = localStorage.getItem("DiasAtecedencia");
+                cell5.innerHTML = localStorage.getItem("duraçaopordia");
