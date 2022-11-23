@@ -33,8 +33,8 @@
             </tr>
             <tr>
                 <td>Exes and Ohs</td>
-                <td><a href="">Desafio</a></td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript">Desafio</a></td>
+                <td><a href="https://github.com/EriFranca/Desafios-CodeWars/blob/main/JAVASCRIPT/KATA%2007/Exes%20and%20Ohs/solu%C3%A7%C3%A3o.js">Código</a></td>
             </tr>
             <tr>
                 <td>Highest and Lowest</td>
