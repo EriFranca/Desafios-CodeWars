@@ -27,9 +27,9 @@
                 <th colspan="4"></th>
             </tr>
             <tr>
+                <th>Kata</th>
                 <th>Desafio</th>
                 <th>Solução</th>
-                <th>Status</th>
             </tr>
             <tr>
                 <td>Exes and Ohs</td>
