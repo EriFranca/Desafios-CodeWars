@@ -31,19 +31,16 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">01</td>
                 <td>RGB To Hex Conversion</td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">02</td>
                 <td></td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">03</td>
                 <td></td>
                 <td><a href="h">Código</a></td>
                 <td align="center">✅</td>
