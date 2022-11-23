@@ -33,7 +33,7 @@
             </tr>
             <tr>
                 <td align="center">01</td>
-                <td></td>
+                <td>RGB To Hex Conversion</td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
