@@ -1,4 +1,4 @@
-<h2 align="center">Desafios CodeWars 📚</h2>
+<h2 align="center">Desafios CodeWars 📚<Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></h2>
 
 <p align="left">
   <a href="https://www.codewars.com/users/Eri%20Fran%C3%A7a/completed">
