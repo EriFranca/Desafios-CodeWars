@@ -49,16 +49,51 @@
        
 </details>
 
-<table id="myTable2">
-  <thead>
-      <tr>
-    <th>Disciplina</th>
-    <th>Método de avaliação</th>
-    <th>Data da avaliação</th>
-    <th>Antecedência</th>
-    <th>Duração por dia</th>
-      </tr>
-  </thead>
-    <tbody>
+<table>
+    <thead>
+        <tr>
+            <th class="titleColumn">Id</th>
+            <th class="titleColumn">Nome</th>
+        </tr>
+    </thead>
+    <tbody class="tableBody">
+        <tr>
+            <td>1</td>
+            <td>Felipe</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Rafael</td>
+        </tr>
     </tbody>
 </table>
+
+<script>
+    var columns = document.querySelectorAll('.titleColumn');
+
+    columns.forEach(c => c.addEventListener("click", (event) => {
+        console.log(event.target.textContent)
+    }))
+</script>
+<script>
+    // ordena dado um criterio
+    var sortBy = (criteria) => {
+
+        // aqui você seleciona as trs do tableBody
+        // var trs = document.querySelectorAll('.tableBody tr');
+
+        // e pode applicar qualquer algoritmo de ordenação no array de trs retornado, inclusive o proprio .sort() do Array JavaScript
+        // Dê uma olhada aqui https://www.w3schools.com/js/js_array_sort.asp
+
+        // apos ter o array ordenado você pode selecionar novamente o tableBody e adicionar as trs em ordem na propriedade .innerHTML do tbody
+        // algo como tbody.innerHTML = seu conteúdo html (trs ordenadas) 
+    }
+
+    var columns = document.querySelectorAll('.titleColumn');
+
+    columns.forEach(c => c.addEventListener("click", (event) => {
+        var columnTitle = event.target.textContent;
+        sortBy(columnTitle);
+    }))
+
+</script>
