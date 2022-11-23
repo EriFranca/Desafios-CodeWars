@@ -18,7 +18,7 @@
     <summary><STRONG>JAVASCRIPT</STRONG></summary>
     <br />
         <!-- Introdução a Programação -->
-        <table border=5;"sortable"=true>
+        <table border=5>
             <tr>
                 <th colspan="4">Kata 7 em Javascript</th>
             </tr>
@@ -30,7 +30,7 @@
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
-            <tr>
+            <tr "sortable"=true>
                 <td>RGB To Hex Conversion</td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
